@@ -2,6 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
+![D1 screenshot](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D1%20screenshot.png)
+
 write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -10,11 +12,23 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Summary Statistics on Suspension Coils
 
+![D2 total summary](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D2%20total%20summary.png)
+
+![D2 lot summary](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D2%20lot%20summary.png)
+
 write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ## T-Tests on Suspension Coils
+
+![D3 total t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20total%20t-test.png)
+
+![D3 lot1 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot1%20t-test.png)
+
+![D3 lot2 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot2%20t-test.png)
+
+![D3 lot3 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot3%20t-test.png)
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary
 
