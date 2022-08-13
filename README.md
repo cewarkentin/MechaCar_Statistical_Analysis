@@ -22,9 +22,11 @@ An R-squared value of 0.7149 means that the generated linear model can predict m
 
 ## Summary Statistics on Suspension Coils
 
-
+Summary statistics were calculated for the suspension coils of all MechaCars.
 
 ![D2 total summary](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D2%20total%20summary.png)
+
+Summary statistics were also calculated for the suspension coils of the population of MechaCars produced at each lot. 
 
 ![D2 lot summary](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D2%20lot%20summary.png)
 
@@ -34,7 +36,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
+T-tests were performed to determine if the MechaCar suspension coils produced across all manufacturing lots, as well as at each lot individually, are statistically different from the population mean of 1,500 pounds per square inch.
 
+For our purposes:
+
+- t
 
 ![D3 total t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20total%20t-test.png)
 
