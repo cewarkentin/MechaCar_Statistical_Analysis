@@ -42,7 +42,11 @@ For our purposes:
 
 - t
 
+All manufacturing lots
+
 ![D3 total t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20total%20t-test.png)
+
+At each individual lot
 
 ![D3 lot1 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot1%20t-test.png)
 
