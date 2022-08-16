@@ -8,7 +8,7 @@ For our purposes:
 
 - the null hypothesis assumes that the distribution of data is the result of random chance
 - the alternate hypothesis assumes that the distribution of data is the result of non-random events (i.e. there is a relationship between factors)
-- a p-value is greater than 0.05 indicates data with a normal distribution, meaning we fail to reject the null hypothesis and we must assume the distribution of data is due to random chance and not a specific correlation
+- a p-value smaller than 0.05 indicates we can reject the null hypothesis, a p-value larger than 0.05 indicates we fail to reject the null hypothesisl; a p-value is greater than 0.05 indicates data with a normal distribution, meaning we fail to reject the null hypothesis and we must assume the distribution of data is due to random chance and not a specific correlation
 
 Regression Results:
 
@@ -40,7 +40,9 @@ T-tests were performed to determine if the MechaCar suspension coils produced ac
 
 For our purposes:
 
-- t
+- the null hypothesis assumes that there is no statistical difference between the observed sample mean and its presumed population mean
+- the alternate hypothesis assumes that there IS a statistical difference between the observed sample mean and its presumed population mean
+- a p-value smaller than 0.05 indicates we can reject the null hypothesis, a p-value larger than 0.05 indicates we fail to reject the null hypothesis
 
 All manufacturing lots
 
