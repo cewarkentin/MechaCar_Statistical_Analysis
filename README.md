@@ -50,13 +50,15 @@ For our purposes:
 
 ![D3 total t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20total%20t-test.png)
 
+A t-test analyzing cars from all 3 lots has a p-value of 0.06028; a p-value greater than 0.05 indicates that there is no significant statistial difference between the samples and the population data.
+
 ### At each individual lot
 
 ![D3 lot1 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot1%20t-test.png)
 
 ![D3 lot2 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot2%20t-test.png)
 
-Lot 1 has a p-value of 1 and Lot 2 has a p-value of 0.6072; both p-values are greater than 0.05, indicating that there is no significant statistial difference between the samples and the population data.
+Lot 1 has a p-value of 1 and Lot 2 has a p-value of 0.6072, indicating that there is no significant statistial difference between the Lot 1 and Lot 2 samples and the population data.
 
 ![D3 lot3 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot3%20t-test.png)
 
