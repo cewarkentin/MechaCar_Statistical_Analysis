@@ -20,7 +20,7 @@ Vehicle length and ground clearance provided a non-random amount of variance to 
 
 The p-value of the linear regression analysis is smaller than 0.05 (5.35e-11); we can reject the null hypothesis and conclude that the slope of our linear model is nonzero.
 
-An R-squared value of 0.7149 means that the generated linear model can predict mpg of MechaCar prototypes with roughly 71% accuracy. 
+An R-squared value of 0.7149 means that the generated linear model can predict mpg of MechaCar prototypes with ~71% accuracy. 
 
 ## Summary Statistics on Suspension Coils
 
