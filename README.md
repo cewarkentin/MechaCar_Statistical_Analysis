@@ -46,19 +46,21 @@ For our purposes:
 - the alternate hypothesis assumes that there IS a statistical difference between the observed sample mean and its presumed population mean
 - a p-value smaller than 0.05 indicates we can reject the null hypothesis, a p-value larger than 0.05 indicates we fail to reject the null hypothesis
 
-All manufacturing lots
+### All manufacturing lots
 
 ![D3 total t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20total%20t-test.png)
 
-At each individual lot
+### At each individual lot
 
 ![D3 lot1 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot1%20t-test.png)
 
 ![D3 lot2 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot2%20t-test.png)
 
+Lot 1 has a p-value of 1 and Lot 2 has a p-value of 0.6072; both p-values are greater than 0.05, indicating that there is no significant statistial difference between the samples and the population data.
+
 ![D3 lot3 t-test](https://github.com/cewarkentin/MechaCar_Statistical_Analysis/blob/main/D3%20lot3%20t-test.png)
 
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary
+Lot 3 has a p-value of 0.04168, indicating that there IS a significant statistial difference between the Lot 3 samples and the population data.
 
 ## Study Design: MechaCar vs Competition
 
