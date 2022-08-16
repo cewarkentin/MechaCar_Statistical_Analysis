@@ -6,9 +6,11 @@ A linear regression model was created to identify whether vehicle length, vehicl
 
 For our purposes:
 
-- the null hypothesis assumes that the distribution of data is the result of random chance
-- the alternate hypothesis assumes that the distribution of data is the result of non-random events (i.e. there is a relationship between factors)
+- the null hypothesis assumes that the distribution of data is the result of random chance, m = 0
+- the alternate hypothesis assumes that the distribution of data is the result of non-random events (i.e. there is a relationship between factors, m =/= 0)
+- the r-squared value represents how well the regression model approximates data points and can be used as a probability metric to determine the likelihood that future data points will fit the linear model; an r-squared value of 1 indicates a best-fit model
 - a p-value smaller than 0.05 indicates we can reject the null hypothesis, a p-value larger than 0.05 indicates we fail to reject the null hypothesis; a p-value is greater than 0.05 indicates data with a normal distribution, meaning we fail to reject the null hypothesis and we must assume the distribution of data is due to random chance and not a specific correlation
+- individual variable p-values determine which variables provide a significant contribution to the linear model
 
 Regression Results:
 
